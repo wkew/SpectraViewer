@@ -1,0 +1,5 @@
+numpy>=1.26
+scipy>=1.11
+psutil>=5.9
+pyqtgraph>=0.13.7
+PySide6-Essentials>=6.6

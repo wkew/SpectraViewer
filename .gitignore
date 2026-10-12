@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/demo/
+/local_run/
+/small_run/
+/display_results/
+*.npy
+*.i32
+*.zip
+*.log
+core
+core.*
+.DS_Store

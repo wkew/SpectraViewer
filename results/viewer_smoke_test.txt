@@ -1,0 +1,1 @@
+Offscreen desktop smoke test passed with exit code 0: startup, 200-trace stack, full view, strongest-peak zoom, PNG output, and clean Qt shutdown.

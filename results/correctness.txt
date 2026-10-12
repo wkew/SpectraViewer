@@ -1,0 +1,2 @@
+PASS: all hierarchy extrema, original indices, tail blocks, peak visibility,
+      zoom samples, m/z mapping, symmetric Hann and zero-padded FFT reference.
